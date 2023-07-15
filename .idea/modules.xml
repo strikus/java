@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrayskunal/arrayskunal.iml" filepath="$PROJECT_DIR$/arrayskunal/arrayskunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalsandloops_kunal/conditionalsandloops_kunal.iml" filepath="$PROJECT_DIR$/conditionalsandloops_kunal/conditionalsandloops_kunal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalsandloops_kunal/conditonals_shradhadid/conditonals_shradhadid.iml" filepath="$PROJECT_DIR$/conditionalsandloops_kunal/conditonals_shradhadid/conditonals_shradhadid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/first day of java/first day of java.iml" filepath="$PROJECT_DIR$/first day of java/first day of java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function_method/function_method.iml" filepath="$PROJECT_DIR$/function_method/function_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/linearsearch.iml" filepath="$PROJECT_DIR$/linearsearch/linearsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalsandloops_kunal/conditonals_shradhadid/loops/loops.iml" filepath="$PROJECT_DIR$/conditionalsandloops_kunal/conditonals_shradhadid/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternalpha/patternalpha.iml" filepath="$PROJECT_DIR$/patternalpha/patternalpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice ques/practice ques.iml" filepath="$PROJECT_DIR$/practice ques/practice ques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linearsearch/quedstion/quedstion.iml" filepath="$PROJECT_DIR$/linearsearch/quedstion/quedstion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalsandloops_kunal/question/question.iml" filepath="$PROJECT_DIR$/conditionalsandloops_kunal/question/question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayskunal/question1/question1.iml" filepath="$PROJECT_DIR$/arrayskunal/question1/question1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/function_method/question_-/question_-.iml" filepath="$PROJECT_DIR$/function_method/question_-/question_-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionalsandloops_kunal/conditonals_shradhadid/question_alpha/question_alpha.iml" filepath="$PROJECT_DIR$/conditionalsandloops_kunal/conditonals_shradhadid/question_alpha/question_alpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchcase/switchcase.iml" filepath="$PROJECT_DIR$/switchcase/switchcase.iml" />
+    </modules>
+  </component>
+</project>
