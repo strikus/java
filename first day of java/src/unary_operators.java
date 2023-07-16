@@ -2,12 +2,13 @@ public class unary_operators {
     public static void main(String[] args){
         int a =34;
         int b = ++a;
-        System.out.println(b);
-        System.out.println(a);
+        System.out.println(b); //35
+        System.out.println(a);//35
         int c=34;
         int d=c++;
-        System.out.println(c);
-        System.out.println(d);
+        System.out.println(c);//35
+        System.out.println(d);//34
+
 
 
     }

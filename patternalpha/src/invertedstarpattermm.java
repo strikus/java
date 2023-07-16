@@ -22,4 +22,4 @@ int n=7;
 // **
 // *
 
-// line 1 h star 4 means     stars = n-1+1 = 4 star - 1+ 1 line
+// line 1 h star 4 means     stars = n-1+1 = 4 star + 1- 1 line
